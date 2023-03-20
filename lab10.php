@@ -7,9 +7,9 @@
 <body>
 <form action="lab10script.php" method="post">
 <input type="text" name="x" placeholder="X">
-<input type="text" name="a"placeholder="A">
-<input type="text" name="b"placeholder="B">
-<input type="text" name="c"placeholder="C">
+<input type="text" name="a" placeholder="A">
+<input type="text" name="b" placeholder="B">
+<input type="text" name="c" placeholder="C">
 <button>Вычислить</button>
 </form>
 </body>
