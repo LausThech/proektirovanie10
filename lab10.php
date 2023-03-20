@@ -5,7 +5,7 @@
 	<title></title>
 </head>
 <body>
-<form action="script.php" method="post">
+<form action="lab10script.php" method="post">
 <input type="text" name="x" placeholder="X">
 <input type="text" name="a"placeholder="A">
 <input type="text" name="b"placeholder="B">
